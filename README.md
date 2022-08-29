@@ -1,4 +1,5 @@
-## Estudante front-end!
+## Estudante front-end! 
+  <a href="https://www.linkedin.com/in/ramon-rodrigues-515a9b244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div align="center">
   <a href="https://github.com/ramon-rodrigues-001">
