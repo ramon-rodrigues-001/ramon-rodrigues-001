@@ -1,4 +1,4 @@
-## Estudante front-end! 
+## Estudante front-end!. 
 
 <div align="center">
   <a href="https://github.com/ramon-rodrigues-001">
