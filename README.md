@@ -16,12 +16,12 @@
 
    <br>
 <div align="center" style="display: inline_block"><br>
-  <img alt="ramon-Js" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img alt="ramon-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="ramon-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="ramon-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="ramon-Sass" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-   <img alt="ramon-Sass" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img alt="ramon-Js" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img alt="ramon-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="ramon-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="ramon-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="ramon-Sass" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+   <img alt="ramon-Sass" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
