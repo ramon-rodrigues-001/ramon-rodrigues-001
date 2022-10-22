@@ -4,8 +4,7 @@
 
 <div>
    <img width="100%" src= "https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"
-</div>
-   <br>
+</div> <br>
 
 <div align="center">  
   <img width="45%" height="210px" src="https://github-readme-stats.vercel.app/api?username=ramon-rodrigues-001&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Status Ramon rodrigues" /> 
