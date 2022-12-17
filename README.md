@@ -11,8 +11,6 @@
   <img width="45%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-rodrigues-001&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ramon-rodrigues-001&theme=gotham&hide_border=true&area=true)
-
    <br>
 <div align="center" style="display: inline_block"><br>
   <img alt="ramon-Js" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
