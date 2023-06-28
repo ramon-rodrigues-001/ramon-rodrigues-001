@@ -4,14 +4,13 @@
 
 <div>
    <img width="100%" src="https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"
-</div> <br>
+</div>
 
 <div align="center">  
   <img width="64%" height="250px" src="https://github-readme-stats.vercel.app/api?username=ramon-rodrigues-001&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Status Ramon rodrigues" /> 
   <img width="35%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-rodrigues-001&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-   <br>
 <div align="center" style="display: inline_block"><br>
   <img alt="ramon-Js" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img alt="ramon-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
