@@ -7,8 +7,8 @@
 </div> <br>
 
 <div align="center">  
-  <img width="100%" padding="0px" height="410px" src="https://github-readme-stats.vercel.app/api?username=ramon-rodrigues-001&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Status Ramon rodrigues" /> 
-  <img width="50%"padding="0px" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-rodrigues-001&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="70%" height="310px" src="https://github-readme-stats.vercel.app/api?username=ramon-rodrigues-001&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Status Ramon rodrigues" /> 
+  <img width="28%" height="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-rodrigues-001&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
    <br>
