@@ -19,6 +19,10 @@
         <img alt="ramon-MongoDB" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
         <img alt="ramon-React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
         <img alt="ramon-Node.js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg">
-    </div>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+    </div> <br><br>
+
+    🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ramon-rodrigues-001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
