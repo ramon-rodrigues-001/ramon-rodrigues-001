@@ -1,4 +1,5 @@
 <div align="center">
+    🏆 GitHub Trophies
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20Web&animation=blinking&fontColor=fff&fontSize=50"/>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+nome+%C3%A9+Ramon;Eu+tenho+19+anos;Eu+sou+de+Capelinha,+MG;Seja+bem-vindo!+%3A%29" alt="Typing SVG" />
@@ -9,7 +10,7 @@
     <div align="center">
         <img width="64%" height="250px" src="https://github-readme-stats.vercel.app/api?username=ramon-rodrigues-001&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Status Ramon Rodrigues"/>
         <img width="35%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-rodrigues-001&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-    </div>
+    </div> <br>
     <div align="center" style="display: inline_block"><br>
         <img alt="ramon-Js" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
         <img alt="ramon-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +23,7 @@
     </div> <br><br>
 
     🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ramon-rodrigues-001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ramon-rodrigues-001&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=6&row=1)
     
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
