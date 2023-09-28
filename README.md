@@ -1,5 +1,4 @@
 <div align="center">
-    🏆 GitHub Trophies
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20Web&animation=blinking&fontColor=fff&fontSize=50"/>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+nome+%C3%A9+Ramon;Eu+tenho+19+anos;Eu+sou+de+Capelinha,+MG;Seja+bem-vindo!+%3A%29" alt="Typing SVG" />
