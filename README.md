@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Desenvolvedor%20Web&animation=blinking&fontColor=fff&fontSize=50"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&animation=blinking&fontColor=fff&fontSize=50"/>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+nome+%C3%A9+Ramon;Eu+tenho+19+anos;Eu+sou+de+Capelinha,+MG;Seja+bem-vindo!+%3A%29" alt="Typing SVG" />
     </a>
@@ -11,15 +11,15 @@
         <img width="35%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-rodrigues-001&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
     </div> <br>
     <div align="center" style="display: inline_block"><br>
-        <img alt="ramon-Js" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-        <img alt="ramon-HTML" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img alt="ramon-CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img alt="ramon-Sass" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-        <img alt="ramon-Bootstrap" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-        <img alt="ramon-MongoDB" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-        <img alt="ramon-React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-        <img alt="ramon-Node.js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg">
-    </div> <br><br>
+        
+    ⚒ Tech Skills 
+<br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+
+
+</div> <br><br>
 
     🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ramon-rodrigues-001&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=6&row=1)
