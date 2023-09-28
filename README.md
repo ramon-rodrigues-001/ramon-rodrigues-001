@@ -3,7 +3,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+Meu+nome+%C3%A9+Ramon;Eu+tenho+19+anos;Eu+sou+de+Capelinha,+MG;Seja+bem-vindo!+%3A%29" alt="Typing SVG" />
   </a>
-</div>
 
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"/>
@@ -27,13 +26,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
   
-
-
-<br><br>
+<br>
 
         🏆 Troféus GitHub
 <br> ![](https://github-profile-trophy.vercel.app/?username=ramon-rodrigues-001&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=6&row=1)
 
-<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
