@@ -1,8 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&animation=blinking&fontColor=fff&fontSize=50"/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ol%C3%A1,+me+chamo+Ramon.;Tenho+20+anos.;Moro+em+Capelinha,+MG.;Seja+bem-vindo!+%3A%29" alt="Typing SVG" />
-  </a>
+  
 
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/94051879/194399251-72469c60-61c4-4db6-bcff-7a01f1041428.gif"/>
